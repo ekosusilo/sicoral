@@ -1,0 +1,9 @@
+dataset_id,path_id,variable_id,variable_name,raster_name,unit
+NOAA-CRW,ct5km,sst,Sea Surface Temperature,coraltemp_v3.1,°C 
+NOAA-CRW,ct5km,hs,HotSpot,ct5km_hs_v3.1,°C
+NOAA-CRW,ct5km,dhw,Degree Heating Week,ct5km_dhw_v3.1,°C-Week
+NOAA-CRW,ct5km,baa,Bleaching Alert Area,ct5km_baa_v3.1,
+MUR-SST,mursst,sst,Sea Surface Temperature,sst,°C
+MUR-SST,mursst,hs,HotSpot,hs,°C
+MUR-SST,mursst,dhw,Degree Heating Week,dhw,°C-Week
+MUR-SST,mursst,bba,Bleaching Alert Area,baa,

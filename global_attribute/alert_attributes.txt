@@ -1,0 +1,6 @@
+Num,Alert
+1,No Stress
+2,Watch
+3,Warning
+4,Alert Level 1
+5,Alert Level 2
